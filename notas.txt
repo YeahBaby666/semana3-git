@@ -2,4 +2,4 @@ Curso: Herramienta de desaarrollo
 Tema: Git
 Aprendiendo sobre ramas
 Contenido en rama principal
-prueba
+prueba con una rama
